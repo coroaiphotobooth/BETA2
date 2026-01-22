@@ -1,0 +1,7 @@
+{
+  "name": "FINAL PHOTOBOOTH OPSI GPT5",
+  "description": "FINAL 4",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
